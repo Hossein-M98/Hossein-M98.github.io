@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 published: true
 ---
-## About Me
+
 Hi there!
 I am Hossein, an embedded systems engineer who loves turning ideas into working, reliable systems. Over the years, I’ve gained hands-on experience with microcontrollers like AVR, STM32, STM8, and ESP32.
 
